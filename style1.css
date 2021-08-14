@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+}
+.bao{
+    height: 410px;
+    width: 410px;
+    background: aqua;
+
+    margin: 0 auto;
+}
+.Wrapper {
+    margin: auto;
+    height: 400px;
+    width: 400px;
+    background: white;
+}
+
+.title {
+    text-align: center;
+    height: 40px;
+    width: auto;
+    background-color: red;
+    color: white;
+    margin-bottom: 10px;
+}
+.item{
+    color: blue;
+    display: flex;
+    margin-bottom: 10px;
+
+}
+.b{
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5px;
+}
+
+.item_checkbox{
+    width: 23%;
+    display: flex;
+    flex-wrap: wrap;
+    color: #ff915f;
+}
+.abc{
+    margin-bottom: -18px;
+    margin-top: -1px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    padding: 5px 10px;
+    margin-right: 2px;
+}
